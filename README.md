@@ -19,8 +19,8 @@ AstroidEscape is an exciting arcade-style game built using Pygame where players 
 - Embed a video here of the game in action, showing how the spaceship moves and how the asteroids are generated.
 
 ## Libraries Used
-- **Pygame** - Version: X.X (for the game engine)
-- **Requests** - Version: X.X (for connecting to the NASA API)
+- **Pygame** (for the game engine)
+- **Requests** (for connecting to the NASA API)
 
 ## How to Configure
 1. Clone the repository:
