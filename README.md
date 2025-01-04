@@ -15,9 +15,6 @@ AstroidEscape is an exciting arcade-style game built using Pygame where players 
    - Extract the `game.zip` file.
    - Open the extracted folder and double-click **`app.exe`** to play.
 
-Enjoy the game!
-
-[Link to video](Link Here)
 
 ## How It Works?
 1. The player controls a spaceship and must dodge oncoming asteroids.
