@@ -27,24 +27,16 @@ AstroidEscape is an exciting arcade-style game built using Pygame where players 
     ```bash
     git clone https://github.com/yourusername/AstroidEscape.git
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd AstroidEscape
-    ```
-3. Install the required dependencies:
+2. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-    *Ensure you have Python 3.x installed.*
 
 ## How to Run
-1. Open your terminal/command prompt.
-2. Navigate to the directory containing the `main.py` file:
+
+1. Run the game:
+    In the repo directory
     ```bash
-    cd AstroidEscape
+    python app.py
     ```
-3. Run the game:
-    ```bash
-    python main.py
-    ```
-4. The game window will open, and you can start playing!
+2. The game window will open, and you can start playing!
