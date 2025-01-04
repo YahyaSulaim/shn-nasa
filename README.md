@@ -24,7 +24,7 @@ AstroidEscape is an exciting arcade-style game built using Pygame where players 
 
 ### Gameplay Demo
 <video width="640" height="360" controls>
-  <source src="https://github.com/YahyaSulaim/shn-nasa/blob/main/demo/demo0.mp4" type="video/mp4">
+  <source src="https://github.com/YahyaSulaim/shn-nasa/raw/refs/heads/main/demo/demo0.mp4">
   Your browser does not support the video tag.
 </video>
 
