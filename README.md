@@ -6,9 +6,16 @@ AstroidEscape is an exciting arcade-style game built using Pygame where players 
 ## Team Members
 1. [Yahya Sulaim]([https://github.com/TH-Activities/saturday-hack-night-template](https://github.com/YahyaSulaim))
 
-## Download the Game
-You can download the game by clicking the link below:
-[Download AstroidEscape Game](https://github.com/YahyaSulaim/shn-nasa/releases/download/v1.0/game.zip)
+## Download and Play the Game
+
+1. **Download the Game**  
+   [Download AstroidEscape](https://github.com/YahyaSulaim/shn-nasa/releases/download/v1.0/game.zip)
+
+2. **Extract and Run**  
+   - Extract the `game.zip` file.
+   - Open the extracted folder and double-click **`app.exe`** to play.
+
+Enjoy the game!
 
 [Link to video](Link Here)
 
