@@ -23,10 +23,8 @@ AstroidEscape is an exciting arcade-style game built using Pygame where players 
 4. The player’s goal is to survive as long as possible while avoiding asteroids.
 
 ### Gameplay Demo
-<video width="640" height="360" controls>
-  <source src="https://github.com/YahyaSulaim/shn-nasa/raw/refs/heads/main/demo/demo0.mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](https://img.youtube.com/vi/hWDy-eWTsq0/0.jpg)](https://www.youtube.com/watch?v=hWDy-eWTsq0)
+
 
 ## Libraries Used
 - **Pygame** (for the game engine)
